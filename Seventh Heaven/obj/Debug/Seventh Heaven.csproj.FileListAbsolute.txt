@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Seventh Heaven\bin\Debug\Seventh Heaven.exe.config
+C:\Users\User\source\repos\Seventh Heaven\bin\Debug\Seventh Heaven.exe
+C:\Users\User\source\repos\Seventh Heaven\bin\Debug\Seventh Heaven.pdb
+C:\Users\User\source\repos\Seventh Heaven\obj\Debug\Seventh Heaven.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Seventh Heaven\obj\Debug\Seventh_Heaven.Form1.resources
+C:\Users\User\source\repos\Seventh Heaven\obj\Debug\Seventh_Heaven.Properties.Resources.resources
+C:\Users\User\source\repos\Seventh Heaven\obj\Debug\Seventh Heaven.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Seventh Heaven\obj\Debug\Seventh Heaven.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seventh Heaven\obj\Debug\Seventh Heaven.exe
+C:\Users\User\source\repos\Seventh Heaven\obj\Debug\Seventh Heaven.pdb
+C:\Users\User\source\repos\Seventh Heaven\obj\Debug\Seventh_Heaven.UserControl1.resources
+C:\Users\User\source\repos\Seventh Heaven\obj\Debug\Seventh_Heaven.OrdersMenuForm.resources
